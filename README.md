@@ -1,2 +1,2 @@
 # frp-server
-A enclosed project.
+An enclosed project.
